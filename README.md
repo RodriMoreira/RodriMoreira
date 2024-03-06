@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cursando Engenharia de software e Estudando desenvolvimento web com javascript 👋
 
 <!--
 **RodriMoreira/RodriMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
